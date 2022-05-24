@@ -1,0 +1,2 @@
+# Code Refactor Starter Code
+// Updated Horiseon website optimaze for accessibility standards, with updated sementic elements, logical structure, accessible alt attributes for the imgs, everything in sequential order and a descriptive title //
